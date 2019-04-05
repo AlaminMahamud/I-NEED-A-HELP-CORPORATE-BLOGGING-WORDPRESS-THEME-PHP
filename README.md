@@ -1,2 +1,3 @@
-# I-NEED-A-HELP-CORPORATE-BLOGGING-WORDPRESS-THEME-PHP
-a corporate blogging theme which i developed for my domain ineedahelp.com
+# INEED-A-HELP-CORPORATE-BLOGGING-WORDPRESS-THEME-PHP
+# `I Need A Help` Coporate Blogging Wordpress Theme
+A corporate blogging theme developed for domain `ineedahelp.com`
